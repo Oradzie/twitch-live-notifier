@@ -4,6 +4,7 @@
 .vscode/
 *.iml
 
+
 # output folders
 bin/
 build/
@@ -12,4 +13,4 @@ build/
 *.class
 *.DS_Store
 deleteme/
-
+__pycache__/
